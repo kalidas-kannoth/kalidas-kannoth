@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kalidas-kannoth/kalidas-kannoth](https://github.com/kalidas-kannoth/kalidas-kannoth)
 
-- 💬 Ask me about **C ,HTML**
+- 💬 Ask me about **C ,HTML,CSS**
 
 - 📫 How to reach me **kalidas.k.1036@gmail.com**
 
