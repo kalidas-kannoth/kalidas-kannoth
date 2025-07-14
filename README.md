@@ -26,4 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalidas-kannoth&show_icons=true&locale=en" alt="kalidas-kannoth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalidas-kannoth&" alt="kalidas-kannoth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalidas-kannoth&" alt="kalidas-kannoth" /></p
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/kalidas2004?ext=contest)
